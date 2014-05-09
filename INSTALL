@@ -1,0 +1,17 @@
+Building SmallChange
+
+<<<<<<< HEAD
+See doc/readme-qt.rst for instructions on building smallchange-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SmallChange.
+
+See doc/build-*.txt for instructions on building smallchange,
+=======
+See doc/readme-qt.rst for instructions on building kotocoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SmallChange.
+
+See doc/build-*.txt for instructions on building kotocoin,
+>>>>>>> a2274fe58afc6164bc15f959ba398d11bcb0cc3f
+the intended-for-services, no-graphical-interface, reference
+implementation of SmallChange.
